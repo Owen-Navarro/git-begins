@@ -1,6 +1,7 @@
-clone 
-add
-commit
-push
-pull
-rgfdg
+ls voir dans le fichier
+cd acceder au fichier
+clone http
+git add 
+git commit -m "texte"
+git push
+git pull
