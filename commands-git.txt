@@ -1,7 +1,5 @@
-ls voir dans le fichier
-cd acceder au fichier
-clone http
-git add 
-git commit -m "texte"
+git clone avec url de github
 git push
-git pull
+git push -all
+git push --branches
+git pull 
